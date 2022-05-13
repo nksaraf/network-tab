@@ -10,8 +10,8 @@
   "dependencies": {
     "@babel/core": "7.14.6",
     "@babel/preset-typescript": "7.14.5",
-    "babel-preset-solid": "1.0.0",
-    "solid-js": "1.0.0",
+    "babel-preset-solid": "1.3.17",
+    "solid-js": "1.3.17",
     "solid-leva": "0.0.2",
     "twind": "0.16.17"
   },
